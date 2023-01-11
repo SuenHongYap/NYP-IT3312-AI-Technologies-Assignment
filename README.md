@@ -39,6 +39,7 @@ Part 3 – Deep Learning
 Build a Convolution Neural Network (CNN) to classify the input dataset, calculate the performance metrics and document your work and results in a Jupyter notebook:
 1. Build the following CNN model:
     1. Convolutional layer
+   
     Feature Maps: 32; Receptive field: 3 by 3; Activation: Relu
     2. Max pooling layer
     Pool size: 2 by 2
