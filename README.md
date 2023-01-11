@@ -24,6 +24,7 @@ your work and results in a Jupyter notebook:
     3. Convert the first 50 color training images to black and white using the Python Imaging Library
     4. Verify the black and white values are identical to (1)
 
+
 Part 2 – Machine Learning
 
 Build the following Machine Learning models to classify the input datasets, calculate the performance metrics and document your work and results in a Jupyter notebook:
@@ -31,3 +32,14 @@ Build the following Machine Learning models to classify the input datasets, calc
 2. Random Forest
 
 For the better model, use the [CIFAR-10 dataset](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) to determine the optimum set of hyperparameters.
+
+
+Part 3 – Deep Learning
+
+Build a Convolution Neural Network (CNN) to classify the input dataset, calculate the performance metrics and document your work and results in a Jupyter notebook:
+1. Build the following CNN model:
+    1. Convolutional layer
+    Feature Maps: 32; Receptive field: 3 by 3; Activation: Relu
+    2. Max pooling layer
+    Pool size: 2 by 2
+2. Implement relevant techniques (covered in the lecture) to optimize your model.
