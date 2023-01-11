@@ -71,3 +71,15 @@ Possible options include:
 Part 4 – AI Services
 
 Google Cloud Vision API provides a set of services for analyzing images. Here are some examples:
+1. Label Detection
+2. Text Detection
+3. Document Text Detection
+4. Facial Detection
+5. Landmark Detection
+6. Logo Detection
+7. Image Properties
+
+Propose an application that uses one, two or three services to solve a problem relating to CV:
+1. You do not need to build a working prototype
+2. For each service you use, show your workings of the API (e.g. issuing request and processing response) in a Jupyter notebook
+3. Describe any background research, challenges and assumptions in a Microsoft Word document
