@@ -16,8 +16,11 @@ images per class. There are 50,000 training images and 10,000 test images.
 You will use `black and white` images converted from CIFAR-10 as your input dataset. Document
 your work and results in a Jupyter notebook:
 (1) Download the black and white source files [here](https://drive.google.com/drive/folders/1Df7euj71zGxIlpCM8DXmYvhu3dptkw9L).
+
 (2) Perform Exploratory Data Analysis (EDA) and discuss the input data
+
 (3) Perform data normalization
+
 (4) Derive the black and white images from the original color images
   1. Download CIFAR-10 python version (color)
   2. Understand the data structure
