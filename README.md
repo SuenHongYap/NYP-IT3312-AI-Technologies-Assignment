@@ -41,18 +41,18 @@ Build a Convolution Neural Network (CNN) to classify the input dataset, calculat
     1. Convolutional layer
         1. Feature Maps: 32; Receptive field: 3 by 3; Activation: Relu
     2. Max pooling layer
-        2. Pool size: 2 by 2
+        1. Pool size: 2 by 2
     3. Convolutional layer
-        3. Feature Maps: 64; Receptive field: 3 by 3; Activation: Relu
+        1. Feature Maps: 64; Receptive field: 3 by 3; Activation: Relu
     4. Max pooling layer
-        4. Pool size: 2 by 2
+        1. Pool size: 2 by 2
     5. Convolutional layer
-        5. Feature Maps: 64; Receptive field: 3 by 3; Activation: Relu
+        1. Feature Maps: 64; Receptive field: 3 by 3; Activation: Relu
     6. Max pooling layer
-        6. Pool size: 2 by 2
+        1. Pool size: 2 by 2
     7. Flatten layer
     8. Fully connected (Dense) layer
-        8. Units: 64; Activation: Relu
+        1. Units: 64; Activation: Relu
     9. Fully connected (Dense) output layer
-        9. Activation: Softmax 
+        1. Activation: Softmax 
 2. Implement relevant techniques (covered in the lecture) to optimize your model.
