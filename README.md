@@ -19,7 +19,7 @@ your work and results in a Jupyter notebook:
 2. Perform Exploratory Data Analysis (EDA) and discuss the input data
 3. Perform data normalization
 4. Derive the black and white images from the original color images
-    1. Download CIFAR-10 python version (color)
+    1. Download [CIFAR-10 python version (color)](https://www.cs.toronto.edu/%7Ekriz/cifar-10-python.tar.gz)
     2. Understand the data structure
     3. Convert the first 50 color training images to black and white using the Python Imaging Library
     4. Verify the black and white values are identical to (1)
@@ -27,3 +27,6 @@ your work and results in a Jupyter notebook:
 Part 2 – Machine Learning
 
 Build the following Machine Learning models to classify the input datasets, calculate the performance metrics and document your work and results in a Jupyter notebook:
+1. Logistic Regression
+2. Random Forest
+For the better model, use the [CIFAR-10 dataset](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) to determine the optimum set of hyperparameters.
