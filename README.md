@@ -19,10 +19,10 @@ your work and results in a Jupyter notebook:
 2. Perform Exploratory Data Analysis (EDA) and discuss the input data
 3. Perform data normalization
 4. Derive the black and white images from the original color images
-  1. Download CIFAR-10 python version (color)
-  2. Understand the data structure
-  3. Convert the first 50 color training images to black and white using the Python Imaging Library
-  4. Verify the black and white values are identical to (1)
+    1. Download CIFAR-10 python version (color)
+    2. Understand the data structure
+    3. Convert the first 50 color training images to black and white using the Python Imaging Library
+    4. Verify the black and white values are identical to (1)
 
 Part 2 – Machine Learning
 
