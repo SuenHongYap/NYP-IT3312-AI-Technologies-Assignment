@@ -6,8 +6,10 @@ models. Having acquired the fundamental understanding of these models, you will 
 powerful AI services provided by Google Cloud Vision API and propose an application to solve
 any problem relating to CV.
 
-Assignment Brief
+# Assignment Brief
+
 Part 1 – Input Dataset
+
 The original CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000
 images per class. There are 50,000 training images and 10,000 test images.
 You will use black and white images converted from CIFAR-10 as your input dataset. Document
