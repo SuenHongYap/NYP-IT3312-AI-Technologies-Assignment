@@ -61,3 +61,13 @@ Possible options include:
     2. Tuning the hyperparameters (e.g. the number of layers) in your CNN
     3. Tuning the hyperparameters in Neural Networks
 3. Conclude the performance of the final model
+4. Analyse the effect of input data on performance
+    1. Create a new model based on your final model in (3) and tweak it to accept inputs of color images (3 channels)
+    2. Train it using the original CIFAR-10 color training images
+    3. Calculate the performance using CIFAR-10 color test images
+    4. Explain why this model is better/worse than (3)
+
+
+Part 4 – AI Services
+
+Google Cloud Vision API provides a set of services for analyzing images. Here are some examples:
