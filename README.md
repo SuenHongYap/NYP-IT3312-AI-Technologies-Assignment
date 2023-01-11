@@ -55,9 +55,7 @@ Build a Convolution Neural Network (CNN) to classify the input dataset, calculat
         1. Units: 64; Activation: Relu
     9. Fully connected (Dense) output layer
         1. Activation: Softmax 
-2. Implement relevant techniques (covered in the lecture) to optimize your model.
-
-Possible options include:
+2. Implement relevant techniques (covered in the lecture) to optimize your model. Possible options include:
     1. Exploring data augmentation
     2. Tuning the hyperparameters (e.g. the number of layers) in your CNN
     3. Tuning the hyperparameters in Neural Networks
