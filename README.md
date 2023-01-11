@@ -29,4 +29,5 @@ Part 2 – Machine Learning
 Build the following Machine Learning models to classify the input datasets, calculate the performance metrics and document your work and results in a Jupyter notebook:
 1. Logistic Regression
 2. Random Forest
+
 For the better model, use the [CIFAR-10 dataset](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) to determine the optimum set of hyperparameters.
